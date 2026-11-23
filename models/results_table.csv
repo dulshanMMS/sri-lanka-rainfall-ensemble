@@ -1,0 +1,7 @@
+Model,Category,RMSE (mm),MAE (mm),R²
+Stacking Ensemble,Stacking,6.0326,2.7983,0.5481
+LightGBM,Boosting,6.0535,2.82,0.545
+XGBoost,Boosting,6.0731,2.8186,0.542
+CatBoost,Boosting,6.098,2.8238,0.5382
+Random Forest,Bagging,6.4423,2.9975,0.4846
+Naive Baseline (Lag-1),Baseline,9.8039,4.8907,-0.1935

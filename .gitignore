@@ -1,0 +1,19 @@
+# Virtual environment & local Python runtime
+.venv/
+.python/
+.mplconfig/
+.jupyter/
+
+# Caches & temporary build folders
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+catboost_info/
+
+# Unused raw datasets & helper files
+2020_al_data_kaggle_upload_new_old_syllabi.csv
+Sri Lanka Economy.csv
+road_accident_data_by_vehicle_type.csv
+VIDEO_SCRIPT.md
+224046A_assignment01/
+*.zip
